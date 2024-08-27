@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Third-year mechanical engineering student at UC impassioned by finding creative solutions to, design, automation, and
+optimization problems. An avid sportsperson, representing New Zealand at canoe polo as a Junior Paddle Black.
+
 <!--
 **JagoAlcock/JagoAlcock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
